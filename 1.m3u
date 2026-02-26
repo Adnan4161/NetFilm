@@ -11,3 +11,5 @@ https://s230.rapidrame.com/hls2/01/00026/d0kqvnvww3e2_,l,n,.urlset/master.m3u8?t
 https://s230.rapidrame.com/hls2/01/00026/piaaljwdaf1t_,l,n,.urlset/master.m3u8?t=_aq-ZnZlSQjFc18BvIjyqhOibjNVaKZTdel8KluuEDU&s=1771706101&e=86400&f=130180&srv=s433&i=0.0&sp=0&p1=s230&p2=s230
 #EXTINF:-1 tvg-logo="https://filmhane.art/uploads/movies/original/28-yil-sonra-kemik-tapinagi-6910.webp" group-title="KORKU", 28 Yıl Sonra: Kemik Tapınağı
 https://aksacli-stream-api-dizi.vercel.app/yayin/28-yil-sonra/1
+#EXTINF:-1 tvg-logo="https://www.hdfilmizle.life/v/504795/poster/watch/ucurum-2026.webp" group-title="AKSİYON", Uçurum (2026)
+https://aksacli-stream-api-dizi.vercel.app/yayin/ucurum-2026/1
