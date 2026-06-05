@@ -39,6 +39,8 @@ https://s230.rapidrame.com/hls2/01/00033/itk54sqovjjl_,l,n,.urlset/master.m3u8?t
 https://eksenload.top/uploads/encode/dnje65svkw19l3r45r8a/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/venganza.webp" group-title="AKSİYON", İntikam - Venganza (2025)
 https://eksenload.top/uploads/encode/o5ljg6oxi8bvbevcs7iq/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/5b3604b91f5c063b952f7b8b.jpg" group-title="BELGESEL",Poldi (2026)
+https://aksacli-stream-api-dizi.vercel.app/yayin/poldi/1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kOGNu9ombTan3rDSr1GdeBaXfsB.jpg" group-title="BİLİM-KURGU", Greenland: Kıyamet (2026)
 https://vidmody.com/vs/tt14850054
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1cGK_vQ8N9ZHS8sTIaDilUMHwx-gg4v9veg&s" group-title="BİLİM-KURGU",War Machine (2026)
@@ -85,5 +87,4 @@ https://s231.rapidrame.com/hls2/01/00035/05ta1q3h98gh_,l,n,.urlset/master.m3u8?t
 https://aksacli-stream-api-dizi.vercel.app/yayin/k-pops/1
 #EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-sessiz-dost.webp" group-title="DRAM",Sessiz Dost (2025)
 https://aksacli-stream-api-dizi.vercel.app/yayin/sessiz-dost/1
-#EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/5b3604b91f5c063b952f7b8b.jpg" group-title="BELGESEL",Poldi (2026)
-https://aksacli-stream-api-dizi.vercel.app/yayin/poldi/1
+
