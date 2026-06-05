@@ -87,4 +87,5 @@ https://s231.rapidrame.com/hls2/01/00035/05ta1q3h98gh_,l,n,.urlset/master.m3u8?t
 https://aksacli-stream-api-dizi.vercel.app/yayin/k-pops/1
 #EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-sessiz-dost.webp" group-title="DRAM",Sessiz Dost (2025)
 https://aksacli-stream-api-dizi.vercel.app/yayin/sessiz-dost/1
-
+#EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-disco.webp" group-title="KOMEDİ",Sessiz D.I.S.C.O. (2026)
+https://aksacli-stream-api-dizi.vercel.app/yayin/disco/1
