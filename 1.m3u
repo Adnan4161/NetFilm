@@ -88,6 +88,10 @@ https://vs4.photofunny.org/v/Scream.7.2026.WEB-DL.1080p.DUAL.H.264-HDM/master.m3
 https://s9.picogallery.org/m1/EzyhLJjhETImqTyhLKEco24hDzkio2EfnJ5ypl4lZQV1YyqSDv1RGP4kZQtjpP5RIHSZYxthZwL0YHuRGDd0zxpTywo2quoTkypaxho3Was0xi9vr1
 #EXTINF:-1 tvg-logo="https://static.boxofficeturkiye.com/news/item/675/39013-UYdle.jpg" group-title="KOMEDİ",Gelin Takımı 2 (2025)
 https://vs1.photoflax.org/v/Gelin.Takimi.2.2025.WEB-DL.1080p.H.264-HDM/master.m3u8
+#EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-yaz-evi.webp" group-title="ROMANTİK",Yaz Evi (2026)
+https://aksacli-stream-api-dizi.vercel.app/yayin/yaz-evi/1
+#EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/09b2dd819e8f0349266881bc.jpg" group-title="ROMANTİK",Ofis Aşkı - Office Romance (2026)
+https://aksacli-stream-api-dizi.vercel.app/yayin/office-romance/1
 #EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/c7a977b4b9d0addf6e6773b3.jpg" group-title="SUÇ-GERİLİM",Suç 101 (2026)
 https://aksacli-stream-api-dizi.vercel.app/yayin/crime-101/1
 #EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/bbd98780d54f6c6a8d593004.jpg" group-title="SUÇ-GERİLİM",Fildişi Kral (2025)
@@ -104,9 +108,5 @@ https://aksacli-stream-api-dizi.vercel.app/yayin/k-pops/1
 https://aksacli-stream-api-dizi.vercel.app/yayin/sessiz-dost/1
 #EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-disco.webp" group-title="KOMEDİ",DISCO (2026)
 https://aksacli-stream-api-dizi.vercel.app/yayin/disco/1
-#EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-yaz-evi.webp" group-title="ROMANTİK",Yaz Evi (2026)
-https://aksacli-stream-api-dizi.vercel.app/yayin/yaz-evi/1
-#EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/09b2dd819e8f0349266881bc.jpg" group-title="ROMANTİK",Ofis Aşkı - Office Romance (2026)
-https://aksacli-stream-api-dizi.vercel.app/yayin/office-romance/1
 #EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.life/poster/izle-lg/sniper-the-white-raven-20039.webp" group-title="SAVAŞ",Sniper The White Raven (2022)
 https://aksacli-stream-api-dizi.vercel.app/yayin/sniper-the-white-raven/1
