@@ -66,6 +66,8 @@ https://aksacli-stream-api-dizi.vercel.app/yayin/war-machine/1
 https://aksacli-stream-api-dizi.vercel.app/yayin/adile-nasit-izle/1
 #EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/f2624711bffea24c7a9b6364.jpg" group-title="DRAM",Peaky Blinders:Ölümsüz Adam (2026)
 https://aksacli-stream-api-dizi.vercel.app/yayin/peaky-blinders-the-immortal-man/1
+#EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-mortal-kombat-ii.webp" group-title="FANTASTİK",Mortal Kombat 2 (2026)
+https://aksacli-stream-api-dizi.vercel.app/yayin/mortal-kombat-2-izle/1
 #EXTINF:-1 tvg-logo="https://cdn.sinemalar.com/images/movie/287587/poster/zeta-1771546428_225x336.jpg" group-title="DRAM",Ajan Zeta (2026)
 https://aksacli-stream-api-dizi.vercel.app/yayin/agent-zeta/1
 #EXTINF:-1 tvg-logo="https://cdn.sinemalar.com/images/movie/291774/poster/street-flow-3-1770327778_225x336.jpg" group-title="DRAM",Banlieusards 3 (2026)
@@ -106,8 +108,6 @@ https://aksacli-stream-api-dizi.vercel.app/yayin/giant/1
 https://aksacli-stream-api-dizi.vercel.app/yayin/k-pops/1
 #EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-sessiz-dost.webp" group-title="DRAM",Sessiz Dost (2025)
 https://aksacli-stream-api-dizi.vercel.app/yayin/sessiz-dost/1
-#EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-mortal-kombat-ii.webp" group-title="FANTASTİK",Mortal Kombat 2 (2026)
-https://aksacli-stream-api-dizi.vercel.app/yayin/mortal-kombat-2-izle/1
 #EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-disco.webp" group-title="KOMEDİ",DISCO (2026)
 https://aksacli-stream-api-dizi.vercel.app/yayin/disco/1
 
