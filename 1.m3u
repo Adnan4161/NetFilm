@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/8Ymg2pazN88fgw55Bj6sNSjAPX4.jpg" group-title="Gözden Kaçan Cevherler", Kardeşler (2009)
-https://aksacli-stream-api-dizi.vercel.app/yayin/kardesler-izle-1/1
 #EXTINF:-1 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/kac-run-izle@2x.webp" group-title="Gözden Kaçan Cevherler", Gizli Gerçek - Run (2020)
 https://aksacli-stream-api-dizi.vercel.app/yayin/run-2020-2/1
 #EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/29840807cb585a1b50976bbd.jpg" group-title="Gözden Kaçan Cevherler", Suikastçi - American Assassin (2017)
