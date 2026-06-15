@@ -68,6 +68,8 @@ https://aksacli-stream-api-dizi.vercel.app/yayin/adile-nasit-izle/1
 https://aksacli-stream-api-dizi.vercel.app/yayin/peaky-blinders-the-immortal-man/1
 #EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-mortal-kombat-ii.webp" group-title="FANTASTİK",Mortal Kombat 2 (2026)
 https://aksacli-stream-api-dizi.vercel.app/yayin/mortal-kombat-2-izle/1
+#EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-stvury.webp" group-title="GERİLİM",Monsters (2025)
+https://aksacli-stream-api-dizi.vercel.app/yayin/stvury/1
 #EXTINF:-1 tvg-logo="https://cdn.sinemalar.com/images/movie/287587/poster/zeta-1771546428_225x336.jpg" group-title="DRAM",Ajan Zeta (2026)
 https://aksacli-stream-api-dizi.vercel.app/yayin/agent-zeta/1
 #EXTINF:-1 tvg-logo="https://cdn.sinemalar.com/images/movie/291774/poster/street-flow-3-1770327778_225x336.jpg" group-title="DRAM",Banlieusards 3 (2026)
@@ -100,8 +102,6 @@ https://aksacli-stream-api-dizi.vercel.app/yayin/bugun-guzel/1
 https://aksacli-stream-api-dizi.vercel.app/yayin/crime-101/1
 #EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/bbd98780d54f6c6a8d593004.jpg" group-title="SUÇ-GERİLİM",Fildişi Kral (2025)
 https://aksacli-stream-api-dizi.vercel.app/yayin/king-ivory/1
-#EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-stvury.webp" group-title="GERİLİM",Monsters (2025)
-https://aksacli-stream-api-dizi.vercel.app/yayin/stvury/1
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/6orkLLEy9odOEYNWfcH5oedF7yg.jpg" group-title="AKSİYON",Jack Ryan: Hayalet Savaş (2026)
 https://aksacli-stream-api-dizi.vercel.app/yayin/tom-clancy-s-jack-ryan-ghost-war/1
 #EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/f3894476ecfbdd5d879e2981.webp" group-title="AKSİYON",Worldbreaker (2025)
