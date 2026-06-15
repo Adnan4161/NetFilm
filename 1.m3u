@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tuMcn12Us09pmAOuVEHXmFRivjF.jpg" group-title="Gözden Kaçan Cevherler", Güvenlik (2021)
-https://aksacli-stream-api-dizi.vercel.app/yayin/guvenlik-izle/1
 #EXTINF:-1 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/kac-run-izle@2x.webp" group-title="Gözden Kaçan Cevherler", Gizli Gerçek - Run (2020)
 https://aksacli-stream-api-dizi.vercel.app/yayin/run-2020-2/1
 #EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/29840807cb585a1b50976bbd.jpg" group-title="Gözden Kaçan Cevherler", Suikastçi - American Assassin (2017)
@@ -96,6 +94,8 @@ https://vs1.photoflax.org/v/Gelin.Takimi.2.2025.WEB-DL.1080p.H.264-HDM/master.m3
 https://aksacli-stream-api-dizi.vercel.app/yayin/yaz-evi/1
 #EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/09b2dd819e8f0349266881bc.jpg" group-title="ROMANTİK",Ofis Aşkı - Office Romance (2026)
 https://aksacli-stream-api-dizi.vercel.app/yayin/office-romance/1
+#EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-bugun-guzel.webp" group-title="ROMANTİK",Bugün Güzel (2025)
+https://aksacli-stream-api-dizi.vercel.app/yayin/bugun-guzel/1
 #EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/c7a977b4b9d0addf6e6773b3.jpg" group-title="SUÇ-GERİLİM",Suç 101 (2026)
 https://aksacli-stream-api-dizi.vercel.app/yayin/crime-101/1
 #EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/bbd98780d54f6c6a8d593004.jpg" group-title="SUÇ-GERİLİM",Fildişi Kral (2025)
