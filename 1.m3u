@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-little-brother.webp" group-title="KOMEDİ", Kimin Kardeşi (2026)
-https://aksacli-stream-api-dizi.vercel.app/yayin/kimin-kardesi/1
-#EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/f97e738ed3bd9fdbec0401cc.jpg" group-title="AİLE", The Sheep Detectives (2026)
-https://aksacli-stream-api-dizi.vercel.app/yayin/the-sheep-detectives/1
-#EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/ea8e7ddf4b951b0d0ca98753.webp" group-title="KOMEDİ", Şişman (2025)
-https://aksacli-stream-api-dizi.vercel.app/yayin/sisman/1
 #EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/9a31eea91a6dcff2560b5802.jpg" group-title="Gözden Kaçan Cevherler", Synchronic (2020)
 https://aksacli-stream-api-dizi.vercel.app/yayin/synchronic/1
 #EXTINF:-1 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/where-hope-grows@2x.webp" group-title="Gözden Kaçan Cevherler",Umutların Yeşerdiği Yer (2014)
@@ -52,6 +46,8 @@ https://s4.pixtures.art/m8/FT9jpTIlpl4lZQV2YyqSDv1RGP4kZQtjpP5RIHSZYxthZwL0YHuRG
 https://s1.imglink.info/mz/H3qupUOyMP4lZQV2YyqSDv1RGP4kZQtjpP5RIHSZYxthZwL0YHuRGDd0zxnJ1aoTyhnl5cozMis0xi1vr1
 #EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/33efb9be6e7ee608755525a9.jpg" group-title="AİLE", The Wild Robot (2024)
 https://aksacli-stream-api-dizi.vercel.app/yayin/the-wild-robot/1
+#EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/f97e738ed3bd9fdbec0401cc.jpg" group-title="AİLE", The Sheep Detectives (2026)
+https://aksacli-stream-api-dizi.vercel.app/yayin/the-sheep-detectives/1
 #EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.life/poster/film/beast-5-7628.jpg" group-title="AKSİYON", Beast (2026)
 https://eksenload.top/uploads/encode/4z9y8zclhui89c9sce85/master.m3u8
 #EXTINF:0 type="video" tvg-logo="https://www.sinemafilmizle.news/wp-content/uploads/2026/01/yikim-ekibi-180x270.jpg" group-title="AKSİYON",Yıkım Ekibi (2026)
@@ -104,6 +100,10 @@ https://vs4.photofunny.org/v/Scream.7.2026.WEB-DL.1080p.DUAL.H.264-HDM/master.m3
 https://s9.picogallery.org/m1/EzyhLJjhETImqTyhLKEco24hDzkio2EfnJ5ypl4lZQV1YyqSDv1RGP4kZQtjpP5RIHSZYxthZwL0YHuRGDd0zxpTywo2quoTkypaxho3Was0xi9vr1
 #EXTINF:-1 tvg-logo="https://static.boxofficeturkiye.com/news/item/675/39013-UYdle.jpg" group-title="KOMEDİ",Gelin Takımı 2 (2025)
 https://vs1.photoflax.org/v/Gelin.Takimi.2.2025.WEB-DL.1080p.H.264-HDM/master.m3u8
+#EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-little-brother.webp" group-title="KOMEDİ", Kimin Kardeşi (2026)
+https://aksacli-stream-api-dizi.vercel.app/yayin/kimin-kardesi/1
+#EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/ea8e7ddf4b951b0d0ca98753.webp" group-title="KOMEDİ", Şişman (2025)
+https://aksacli-stream-api-dizi.vercel.app/yayin/sisman/1
 #EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-yaz-evi.webp" group-title="ROMANTİK",Yaz Evi (2026)
 https://aksacli-stream-api-dizi.vercel.app/yayin/yaz-evi/1
 #EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/09b2dd819e8f0349266881bc.jpg" group-title="ROMANTİK",Ofis Aşkı - Office Romance (2026)
