@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-korkunc-bir-film.webp" group-title="KORKU", Korkunç Bir Film 6 (2026)
+https://aksacli-stream-api-dizi.vercel.app/yayin/korkunc-bir-film-6/1
+#EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-little-brother.webp" group-title="KOMEDİ", Kimin Kardeşi (2026)
+https://aksacli-stream-api-dizi.vercel.app/yayin/kimin-kardesi/1
 #EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/f97e738ed3bd9fdbec0401cc.jpg" group-title="AİLE", The Sheep Detectives (2026)
 https://aksacli-stream-api-dizi.vercel.app/yayin/the-sheep-detectives/1
 #EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/ea8e7ddf4b951b0d0ca98753.webp" group-title="KOMEDİ", Şişman (2025)
