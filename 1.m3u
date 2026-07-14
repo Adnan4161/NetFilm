@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/0e82f2fbe577faa363057c8d.jpg" group-title="Gözden Kaçan Cevherler",Bizi Hatırla (2018)
+https://aksacli-stream-api-dizi.vercel.app/yayin/bizi-hatirla/1
 #EXTINF:-1 tvg-logo="https://jetfilmizle.now/uploads/films/2024/e/emanet-poster-large.webp" group-title="Gözden Kaçan Cevherler", Emanet (2024)
 https://box-c-o-l-6.vmeas.cloud/hls2/03/02161/lbu8zab31577_n/master.m3u8?t=QWjHQc6QrCUdhW_SfRL_wMhFpaNn_2-9S1oVQsvoFCE=&s=1783620484&e=43200&v=&i=0.4&sp=0&asn=34984
 #EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/billy-ve-molly-bambaska-bir-sevginin-hikayesi-izle.webp" group-title="Gözden Kaçan Cevherler", Billy ve Molly: Bambaşka Bir Sevginin Hikayesi (2024)
@@ -170,6 +172,7 @@ http://dpsmartone.xyz:2095/movie/hsyn1545chz/tbrg2205gg00/222693.mkv
 https://aksacli-stream-api-dizi.vercel.app/yayin/ip-man-kung-fu-efsanesi/1
 #EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-a-season-for-family.webp" group-title="DRAM",A Season for Family (2023)
 https://aksacli-stream-api-dizi.vercel.app/yayin/a-season-for-family/1
+
 
 
 
