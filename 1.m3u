@@ -43,9 +43,6 @@ https://aksacli-stream-api-dizi.vercel.app/yayin/upgrade/1
 https://pixeldrain.com/api/file/5Agx8mTu
 #EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.life/poster/film/fullhd-kayip-araniyor-searching.jpg" group-title="Gözden Kaçan Cevherler", Kayıp Aranıyor (2018)
 https://s26.imagescdns.pics/mw/H2IupzAbnJ5aYwVjZGthI0IPYHEZYwRjBQOjYxEIDHjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi26vr1
-
-
-
 #EXTINF:-1 tvg-logo="https://www.hdfilmizle.now/v/6151/poster/watch-lg/the-young-chief-winnetou-izle.webp" group-title="AİLE",Genç Winnetou (2022)
 https://vs14.photofunny.org/v/Der.junge.Hauptling.Winnetou.2022.Bluray.1080p.DUAL.x264-HDM/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.life/poster/film/hoplayanlar-hoppers-76854.jpg" group-title="AİLE", Hoplayanlar (2026)
@@ -172,12 +169,14 @@ http://dpsmartone.xyz:2095/movie/hsyn1545chz/tbrg2205gg00/222693.mkv
 https://aksacli-stream-api-dizi.vercel.app/yayin/ip-man-kung-fu-efsanesi/1
 #EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-a-season-for-family.webp" group-title="DRAM",A Season for Family (2023)
 https://aksacli-stream-api-dizi.vercel.app/yayin/a-season-for-family/1
+#EXTINF:-1 tvg-logo="https://tekparcaizle.com/wp-content/uploads/2026/07/babam-evde-kaldi.jpg" group-title="KOMEDİ",Babam Evde Kaldı (The Breadwinner) (2026)
+https://aksacli-stream-api-dizi.vercel.app/yayin/babam-evde-kaldi-izle/1
 
 
 
 
 
-#EXTM3U 
+
 #EXTINF:-1 tvg-id="VARYEMEZ.tr" tvg-name="VARYEMEZ(1991)" tvg-logo="https://image.tmdb.org/t/p/w500/mQqmGs6DIR4fl1XXgf82Tj3GQ3v.jpg"group-title="KEMAL SUNAL",VARYEMEZ(1991)
 https://vidmody.com/vs/tt0253884
 #EXTINF:-1 tvg-id="ABUK SUBUK BİR FİLM.tr" tvg-name="ABUK SUBUK BİR FİLM(1990)" tvg-logo="https://image.tmdb.org/t/p/w500/oS0YNNja03bYy62V6Sg0sAeHTUC.jpg"group-title="KEMAL SUNAL",ABUK SUBUK BİR FİLM(1990)
