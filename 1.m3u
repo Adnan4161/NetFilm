@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/fall-izle-hd71.webp" group-title="Gözden Kaçan Cevherler", Fall (Düşüş) (2022)
+https://aksacli-stream-api-dizi.vercel.app/yayin/fall-izle-hd71/1
 #EXTINF:-1 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/wrong-place@2x.webp" group-title="Gözden Kaçan Cevherler",Wrong Place (Son Çıkmaz) (2022)
 https://s429.rapidrame.com/hls2/01/00020/8imtlegrvrln_,l,n,.urlset/master.m3u8?t=mTT9LV7i_xIPc1iEKHTCoPpT_2QhRAjtIDOJ8uRxdlI&s=1784563049&e=86400&f=100483&i=0.0&sp=0
 #EXTINF:-1 tvg-logo="https://www.filmhane.ink/storage/uploads/covers/0e82f2fbe577faa363057c8d.jpg" group-title="Gözden Kaçan Cevherler",Bizi Hatırla (2018)
