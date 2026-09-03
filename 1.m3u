@@ -271,8 +271,10 @@ https://aksacli-stream-api-dizi.vercel.app/yayin/gizemli-kadin/1
 https://aksacli-stream-api-dizi.vercel.app/yayin/fisilti-adam/1
 #EXTINF:-1 tvg-logo="https://fullhdfilmizlebox.org/uploads/posters/webp/film-ongoru.webp" group-title="DRAM",Öngörü (2026)
 https://aksacli-stream-api-dizi.vercel.app/yayin/ongoru/1
-
-
+#EXTINF:-1 tvg-logo="https://www.hdfilmcehennemi2.biz/uploads/posters/webp/valhalla.webp" group-title="MACERA",Valhalla Thor Efsanesi (2019)
+https://www.hdfilmcehennemi2.biz/valhalla-thor-efsanesi-izle/
+#EXTINF:-1 tvg-logo="https://www.hdfilmcehennemi2.biz/uploads/posters/webp/the-weight.webp" group-title="GERİLİM",The Weight (2026)
+https://www.hdfilmcehennemi2.biz/the-weight-izle/
 
 
 
